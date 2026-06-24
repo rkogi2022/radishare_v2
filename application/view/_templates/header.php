@@ -314,8 +314,8 @@
                     <li><a href="<?php echo URL; ?>" class="active">Home</a></li>
                     <li><a href="<?php echo URL; ?>about/index">About Us</a></li>
                     <li><a href="<?php echo URL; ?>venture/index">Our Ventures</a></li>
-                    <!-- <li><a href="<?php echo URL; ?>learn">Learn</a></li>
-                    <li><a href="<?php echo URL; ?>news">News & Publications</a></li> -->
+                    <li><a href="<?php echo URL; ?>rcnk/index">RCNK</a></li>
+                    <!-- <li><a href="<?php echo URL; ?>news/index">News & Publications</a></li> -->
                     <li><a href="<?php echo URL; ?>contact/index">Contact</a></li>
                 </ul>
                 
